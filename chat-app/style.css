@@ -334,7 +334,7 @@ button{
 
     .backfig{
         width: 450px;
-        height: 95%;
+        height: 95vh;
         border-radius: 0 0 50% 50%;
         background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
         transform: translate(-40%, -25%);
@@ -396,7 +396,7 @@ button{
 
     .backfig{
         width: 450px;
-        height: 95%;
+        height: 95vh;
         border-radius: 0 0 50% 50%;
         background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
         transform: translate(-55%, -25%);
