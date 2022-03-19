@@ -399,7 +399,7 @@ button{
         height: 95%;
         border-radius: 0 0 50% 50%;
         background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
-        transform: translate(-35%, -25%);
+        transform: translate(-40%, -25%);
         position: absolute;
     }
     
