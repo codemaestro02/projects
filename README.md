@@ -1,6 +1,7 @@
 # projects
 
 Personal Projects
+
 I built all these from scratch with HTML and CSS.
 
 1. Dr. Norman Borlaug Tribute Page - https://normanborlaugtributepage.netlify.app/
